@@ -11,7 +11,7 @@ const elements = {
     userGreeting: document.getElementById('userGreeting'),
     dynamicQuote: document.getElementById('dynamicQuote'),
     lightDiyaBtn: document.getElementById('lightDiyaBtn'),
-    diyaContainer: document.getElementById('diyaContainer'),
+    diyaContainer: document.getElementById('diyaContainer'),   
     fireworksBtn: document.getElementById('fireworksBtn'),
     nameInput: document.getElementById('nameInput'),
     personalizeBtn: document.getElementById('personalizeBtn'),

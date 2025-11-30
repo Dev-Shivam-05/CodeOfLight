@@ -10,7 +10,7 @@
     --dark-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     --gold-gradient: linear-gradient(135deg, #FFD700 0%, #FFA500 50%, #FF6B35 100%);
     --glass-bg: rgba(255, 255, 255, 0.05);
-    --glass-border: rgba(255, 255, 255, 0.18);
+    --glass-border: rgba(255, 255, 255, 0.18);  
     --shadow-color: rgba(0, 0, 0, 0.3);
     --glow-intensity: 0 0 40px rgba(255, 215, 0, 0.6);
 }
